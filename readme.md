@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/wangsul-ai/.github/blob/main/profile/logo.png" alt="wangsul-ai" width="300"/>
+  <img src="https://github.com/wangsul-ai/.github/blob/main/logo.png" alt="wangsul-ai" width="300"/>
   <h1>wangsul.ai - Inovasi Chatbot Interaktif Pendukung Pembelajaran Bahasa dan Budaya Jawa</h1>
 
 <p><i>Bahasa dan budaya Jawa semakin mengalami penurunan dalam pemahaman dan penggunaannya di kalangan generasi muda. Salah satu kendala utama adalah sulitnya mengakses sumber seperti Pepak Basa Jawa dengan mudah. Selain itu, meskipun ada akses, isi buku Pepak sering kali sulit dipahami, informasi di dalamnya tidak lengkap, dan membutuhkan penjelasan tambahan agar mudah dimengerti. Untuk mengatasi permasalahan tersebut, ditawarkan solusi berupa chatbot berbasis kecerdasan buatan bernama Wangsul.ai. Wangsul.ai memanfaatkan teknologi LLM (Large Language Model) dengan pendekatan Retrieval-Augmented Generation (RAG) yang mengintegrasikan Pepak Basa Jawa dalam format PDF ke dalamnya. Tujuan dari inovasi ini adalah melestarikan budaya dan bahasa Jawa melalui solusi teknologi yang adaptif, interaktif, dan mudah digunakan. Dengan Wangsul.ai, pengguna dapat mempelajari bahasa dan budaya Jawa secara lebih efektif sekaligus meningkatkan kualitas pembelajaran bagi generasi muda di masa depan dengan memanfaatkan teknologi.</i></p>
